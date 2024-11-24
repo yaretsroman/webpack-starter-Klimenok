@@ -1,1 +1,1 @@
-# webpack-starter-Klimenok
+# mentoring-simple-webpack-starter
